@@ -1,5 +1,13 @@
+#intellij
+**/.idea
+*.iml
+
+#m3u
+*.m3u
+
 # Compiled class file
 *.class
+**/target
 
 # Log file
 *.log
